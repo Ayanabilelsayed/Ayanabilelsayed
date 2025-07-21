@@ -70,10 +70,7 @@
   </tbody>
 </table>
 
-<ul>
-  <li><a href="#"><b>🌟 How I Built My First React Project</b></a><br/><i>A beginner's guide to creating interactive UIs</i></li>
-  <li><a href="#"><b>💡 5 Tips for Better Front-End Code</b></a><br/><i>Clean, readable, and scalable front-end development</i></li>
-</ul>
+
 
 <h3>Where to find me</h3>
 
@@ -103,6 +100,4 @@
   </a>
 </p>
 
----
-
-Made with 💙 by Aya Nabil
+<p align="center">Thanks for visiting 💙</p>
